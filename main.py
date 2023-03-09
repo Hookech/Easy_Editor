@@ -1,4 +1,4 @@
-#создай тут фоторедактор Easy Editor!
+#создай тут фоторедактор Easy Editor!houijpoj[
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QFileDialog ,QApplication, QWidget, QPushButton, QLabel, QListWidget, QHBoxLayout, QVBoxLayout
 
